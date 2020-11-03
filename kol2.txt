@@ -2,4 +2,3 @@ zmiana
 naprawa bledcu
 zmiana 2
 zmiana 3
-git zmiana do revertu
