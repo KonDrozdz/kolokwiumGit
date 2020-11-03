@@ -1,0 +1,51 @@
+[33mcommit b0b2c3c37b8137539e15fca7c875cf506ff9e61c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: KonDrozdz <72468407+KonDrozdz@users.noreply.github.com>
+Date:   Tue Nov 3 13:32:19 2020 +0100
+
+    Revert "zmianadorevertu"
+    
+    This reverts commit a0309712f6c9bfcfd507b5b272e3e2cfac46f01b.
+
+[33mcommit 3fbda11c18288aaf081694b7ed925d2337e83657[m
+Author: KonDrozdz <72468407+KonDrozdz@users.noreply.github.com>
+Date:   Tue Nov 3 13:29:39 2020 +0100
+
+    Revert "zmianadorevertu2"
+    
+    This reverts commit 89983f6990a3de47b496ebce83c6de717939b937.
+
+[33mcommit 89983f6990a3de47b496ebce83c6de717939b937[m
+Author: KonDrozdz <72468407+KonDrozdz@users.noreply.github.com>
+Date:   Tue Nov 3 13:28:45 2020 +0100
+
+    zmianadorevertu2
+
+[33mcommit a0309712f6c9bfcfd507b5b272e3e2cfac46f01b[m
+Author: KonDrozdz <72468407+KonDrozdz@users.noreply.github.com>
+Date:   Tue Nov 3 13:28:23 2020 +0100
+
+    zmianadorevertu
+
+[33mcommit 47107922927dbc6ec7aef3e1dd2ff23a7fb1014c[m[33m ([m[1;32mprostaWersja[m[33m)[m
+Author: KonDrozdz <72468407+KonDrozdz@users.noreply.github.com>
+Date:   Tue Nov 3 13:02:04 2020 +0100
+
+    zmiana_2
+
+[33mcommit 320bdaeba78d6c03736414bd2efe7f1397b2674f[m
+Author: KonDrozdz <72468407+KonDrozdz@users.noreply.github.com>
+Date:   Tue Nov 3 12:59:06 2020 +0100
+
+    zmiana
+
+[33mcommit 148a1b424e2075babc39a8073f7ebd3e40287baf[m
+Author: KonDrozdz <72468407+KonDrozdz@users.noreply.github.com>
+Date:   Tue Nov 3 12:58:12 2020 +0100
+
+    zmiana1
+
+[33mcommit cc01c7de94cd6148c9ee7f1a3a3e94af125bb4a1[m
+Author: KonDrozdz <72468407+KonDrozdz@users.noreply.github.com>
+Date:   Tue Nov 3 12:52:03 2020 +0100
+
+    dodano plik kol1txt
